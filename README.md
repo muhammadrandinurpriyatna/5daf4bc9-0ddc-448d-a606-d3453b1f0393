@@ -15,9 +15,9 @@ Coding Challenge. Repository ini berisi dua submodul utama:
 [Klik Disini](https://drive.google.com/file/d/1e7jKNReBFeGSwYhgVP694FbVCkFEyoVc/view?usp=sharing)
 
 ## Dokumentasi
-backend : http://localhost:3001/
-frontend : http://localhost:3000/
-swagger : http://localhost:3001/api-docs
+- backend : http://localhost:3001/
+- frontend : http://localhost:3000/
+- swagger : http://localhost:3001/api-docs
 
 ## Terkait Pertanyaan Hubungi
 - Whatsapp : 085213554149
